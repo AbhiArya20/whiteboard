@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "whiteboard",
   "private": true,
   "scripts": {
     "build": "turbo build",
